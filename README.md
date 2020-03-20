@@ -8,4 +8,6 @@ in jupyter notebook.
 
 Output:
 
+![](operations.png)
 
+![](square.png)
